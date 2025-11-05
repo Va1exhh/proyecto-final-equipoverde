@@ -1,4 +1,4 @@
-# proyecto-final-verde
+# NailStock - Software
 <p align="center">
   <img src="assets/icons/NailStock.png" alt="NailStock Logo" width="230"/>
 </p>
